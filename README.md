@@ -1,4 +1,4 @@
-<img width="1506" height="816" alt="01-cau-hinh-thread-group" src="https://github.com/user-attachments/assets/b37e3fc2-a90d-449f-a17d-63e5c246b924" />
+
 # Báo cáo kiểm thử hiệu năng website VnExpress bằng Apache JMeter
 
 ## 1. Mục tiêu
